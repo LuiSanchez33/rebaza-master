@@ -1,0 +1,9 @@
+/**
+ * Reset some basic elements
+ */
+@import url(animate.css);
+@import url(bootstrap.min.css);
+@import url(responsive.css);
+@import url(../js/plugins/owl-carousel/owl.carousel.css);
+@import url(../js/plugins/slick/slick-theme.css);
+@import url(../js/plugins/slick/slick.css);

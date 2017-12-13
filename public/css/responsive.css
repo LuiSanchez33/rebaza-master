@@ -1,0 +1,307 @@
+/* Large Devices Styles Starts */
+
+@media (min-width: 1200px) {
+	/* News & Event Section Styles Starts */
+
+	.news-event-teaser .news-meta {
+		width: 25%;
+		float: left;
+		position: relative;
+	}
+	.news-event-teaser .news-meta:after {
+		content: "";
+		position: absolute;
+		top: 10px;
+		right: 15px;
+		width: 2px;
+		height: 90%;
+		background-color: #cf3d27;
+		transform: rotate(20deg);
+	}
+	.news-event-teaser h5 {
+		margin-top: 0px;
+		width: 100%;
+		float: right;
+		font-size: 18px;
+		line-height: 26px;
+		font-style: italic;
+	}
+	.news-event-teaser h6 {
+		margin-top: 0px;
+		width: 100%;
+		float: right;
+		font-size: 21px;
+		line-height: 26px;
+	}
+	.news-event-teaser h4 {
+		width: 100%;
+		float: right;
+		font-size: 18px;
+		line-height: 26px;
+	}
+
+	.lema {
+		padding-top: 40px;
+	}
+	/* Download App Section Styles Starts */
+
+	.dowload-app .content {
+		padding-top: 30px;
+	}
+}
+
+/* Medium Devices Styles Starts */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+/* Main Menu Styles Starts */
+	.main-menu .navbar-nav > li > a {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+/* News & Event Section Styles Starts */
+
+	.news-event-teaser .news-meta {
+		width: 25%;
+		float: left;
+		position: relative;
+	}
+	.news-event-teaser .news-meta:after {
+		content: "";
+		position: absolute;
+		top: 13px;
+		right: 0;
+		width: 2px;
+		height: 90%;
+		background-color: #cf3d27;
+		transform: rotate(20deg);
+	}
+	.news-event-teaser h6 {
+		margin-top: 10px;
+		font-size: 20px;
+		line-height: 26px;
+	}
+
+/* Download App Section Styles Starts */
+
+.dowload-app .content {
+	padding-right: 30px;
+	padding-left: 20px;
+}
+	.dowload-app h3 {
+		margin-top: 25px;
+		margin-bottom: 15px;
+		color: #cf3d27;
+	}
+	.dowload-app h5 {
+		margin-bottom: 25px;
+		color: #282828;
+	}
+}
+
+/* Small Devices Styles Starts */
+@media (min-width: 768px) {
+	.main-menu .dropdown:hover .dropdown-menu {
+		display: block;
+	}
+	#pie_der {
+		text-align: right;
+	}
+
+	.mb50 {
+		margin-bottom: 50px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+	/* Header Styles Starts */
+
+	.logo {
+		margin-top: 21px;
+	}
+
+	/* Main Menu Styles Starts */
+
+	.main-menu .navbar-nav > li > a {
+		padding-left: 15px !important;
+		padding-right: 15px !important;
+		font-size: 13px;
+
+
+	}
+		.main-menu .navbar-nav > li > a .fa {
+			margin-left: 3px;
+			font-size: 12px;
+		}
+
+	/* Main Banner Section Styles Starts */
+
+	.main-banner {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+
+	/* News & Event Section Styles Starts */
+
+	.news-event-teaser {
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+	.news-block {
+		margin-top: 0;
+		margin-bottom: 40px;
+	}
+		.news-event-teaser .news-meta {
+			width: 25%;
+			float: left;
+			position: relative;
+		}
+		.news-event-teaser .news-meta:after {
+			content: "";
+			position: absolute;
+			top: 13px;
+			right: 0;
+			width: 2px;
+			height: 90%;
+			background-color: #cf3d27;
+			transform: rotate(20deg);
+		}
+		.news-event-teaser h6 {
+			margin-top: 10px;
+			font-size: 20px;
+			line-height: 26px;
+		}
+
+	/* Download App Section Styles Starts */
+
+	.dowload-app h3 {
+		margin-top: 0;
+	}
+	.dowload-app ul {
+		margin-bottom: 30px;
+	}
+		.dowload-app li + li {
+			margin-left: 0;
+		}
+
+}
+
+/* Extra Small Devices Styles Starts */
+
+@media (max-width: 767px) {
+
+	#cont_contenido .col-sm-9 img {
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+
+	#pie_der {
+		text-align: center;
+		padding-top: 15px;
+	}
+
+	/* Header Styles Starts */
+
+	.logo {
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+
+	.main-menu .navbar-nav > li > a {
+		padding-left: 4px;
+	}
+	/* Main Menu Styles Starts */
+
+	.main-menu .navbar-collapse {
+		padding-left: 15px;
+		padding-right: 15px;
+		-webkit-box-shadow: inset 0 1px 0 #36A9E1;
+		   -moz-box-shadow: inset 0 1px 0 #36A9E1;
+				box-shadow: inset 0 1px 0 #36A9E1;
+	}
+		.main-menu .navbar-toggle {
+			padding: 5px 10px;
+			color: #fff;
+		}
+		.main-menu .navbar-toggle {
+			padding: 8px 10px;
+			border: 1px solid #fff;
+		}
+		.navbar-toggle .icon-bar {
+			background-color: #fff;
+		}
+		.main-menu .navbar-toggle:hover,
+		.main-menu .navbar-toggle:focus {
+			background-color: #36A9E1;
+			outline: none;
+		}
+
+/* Main Banner Section Styles Starts */
+
+.main-banner {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+	.main-banner h1 {
+		font-size: 48px;
+	}
+
+/* News & Event Section Styles Starts */
+
+.news-event-teaser {
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+	.news-block {
+		margin-top: 0;
+		margin-bottom: 20px;
+	}
+		.news-event-teaser .news-meta {
+			display: none;
+		}
+		.news-event-teaser h6 {
+			font-size: 20px;
+			line-height: 30px;
+		}
+
+/* Download App Section Styles Starts */
+
+	.dowload-app h3 {
+		margin-top: 0;
+	}
+	.dowload-app li {
+		margin-bottom: 10px;
+	}
+	.dowload-app li + li {
+		margin-left: 0;
+	}
+
+/* Modal Window Styles Starts */
+
+	#registerModal .modal-body {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+		#registerModal .modal-body .btn-tertiary {
+			font-size: 16px;
+		}
+			#registerModal .modal-body .btn-tertiary > .fa {
+				display: none;
+			}
+
+/* Generic Styles Starts */
+
+	.img-center-xs {
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+@media (min-width: 1024px) {
+	.navbar-nav {
+		width: 907px;
+		margin: 0 auto;
+		float: none;
+	}
+}

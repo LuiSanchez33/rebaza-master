@@ -1,0 +1,8 @@
+<?php
+return [
+	'title' => 'Corporate strategies and conflict resolution',
+	'desc' => '				<p>Increasingly complex financial and corporate transactions, more sophisticated parties to the transactions (minority shareholders, regulators and creditors) and ongoing changes in rules and regulations contribute to the greater frequency of financial and commercial corporate conflicts.</p>
+							<p>Regular issues include hostile takeover bids, compliance with Public Acquisition Offer requirements, treatment afforded to minority shareholders, undue utilization of insider information, breach of payment conditions, conflict between bondholders and financially troubled organizations, corporate reorganizations, and breach of legal rules and regulations stemming from the Stock Market Act and the Financial System Law.</p>
+							<p>In all these instances the litigants’ interests will be inadequately protected without concomitant in-depth knowledge of corporate finances; bearing in mind that such complaints are filed before the regulators, including the National Securities Commission (CONASEV), the Bank and Insurance Companies Superintendence (SBS) and others, before charges are pressed with the Judiciary.</p>
+							<p>In this regard Rebaza, Alcázar & De Las Casas Abogados provide unique services in the Peruvian market, that combine a profound understanding of the most critical and sensitive aspects of Mergers and Acquisitions, Corporate Finance, Corporate Banking and Consulting, and unsurpassed ability to coordinate efforts with financial experts or litigants.</p>',
+];

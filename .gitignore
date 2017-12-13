@@ -1,0 +1,12 @@
+/vendor
+/node_modules
+.env
+.idea
+/public/images/articles/
+/public/cv/
+/_site/
+public/abogados_cv/*
+public/images/abogados/*
+public/images/estudio/*
+public/images/areas/*
+*.zip
